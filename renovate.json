@@ -6,5 +6,5 @@
   "osvVulnerabilityAlerts": true,
   "vulnerabilityAlerts": {
     "commitMessageSuffix": "[SECURITY-{{{vulnerabilitySeverity}}}]"
-  },
+  }
 }
